@@ -1,0 +1,21 @@
+html { 
+	height: 100%; 
+	background-color: green;
+}
+
+body {
+	color: red;
+	background-color: blue;
+	margin: 0;
+    height: 100%;
+}
+
+h1 {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	height: 100%;
+	text-align: center;
+}
